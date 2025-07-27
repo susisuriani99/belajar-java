@@ -1,4 +1,4 @@
-package TipeDataNumber;
+package Belajar;
 
 public class OperasiBoolean {
 

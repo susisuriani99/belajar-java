@@ -1,4 +1,4 @@
-package TipeDataNumber;
+package Belajar;
 
 public class IfThenElse {
     public static void main(String[] args) {

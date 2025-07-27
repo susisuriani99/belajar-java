@@ -1,4 +1,4 @@
-package TipeDataNumber;
+package Belajar;
 
 public class TipeDataCharacter {
     public static void main(String[] args) {
