@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Belajar.Array",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "Belajar.BreakContinue",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "Belajar.For",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "Belajar.ForEach",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "IfThenElse",
+            "request": "launch",
+            "mainClass": "Belajar.IfThenElse",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "KonversiNumber",
+            "request": "launch",
+            "mainClass": "Belajar.KonversiNumber",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Belajar.Method",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "MethodParameter",
+            "request": "launch",
+            "mainClass": "Belajar.MethodParameter",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "MethodReturnValue",
+            "request": "launch",
+            "mainClass": "Belajar.MethodReturnValue",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "OperasiBoolean",
+            "request": "launch",
+            "mainClass": "Belajar.OperasiBoolean",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "OperasiMatematika",
+            "request": "launch",
+            "mainClass": "Belajar.OperasiMatematika",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "SwitchLambdaYield",
+            "request": "launch",
+            "mainClass": "Belajar.SwitchLambdaYield",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "Belajar.TernaryOperator",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataCharacter",
+            "request": "launch",
+            "mainClass": "Belajar.TipeDataCharacter",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "TipeDataNumber",
+            "request": "launch",
+            "mainClass": "Belajar.TipeDataNumber",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "HelloWinata",
+            "request": "launch",
+            "mainClass": "HelloWinata",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "belajar-java_9170bae0"
+        }
+    ]
+}

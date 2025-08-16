@@ -1,3 +1,5 @@
+package Belajar;
+
 public  class MethodReturnValue {
     public static void main(String[] args) {
         var a = 100;

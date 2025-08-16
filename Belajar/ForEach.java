@@ -1,3 +1,5 @@
+package Belajar;
+
 public class ForEach {
     public static void main(String[] args) {
         String[] array = {
