@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Belajar.Polymorphism",
+            "projectName": "belajar-java_9170bae0"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
